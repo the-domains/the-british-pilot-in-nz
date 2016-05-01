@@ -1,29 +1,41 @@
-name: The British Pilot in New Zealand
-favicon: null
-layout_spectrum: 0.47284
-typography_spectrum: 0.89105
 title: The British Pilot in NZ
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.5625
+  brandStrength: 0.5
+  rhythmicContrast: 1
   brandColors:
     - '#0a0807'
     - '#4a5569'
     - '#b2b6b5'
     - '#ffffff'
     - '#d9571d'
-  brandStrength: 0.5
   lightness: 0.5625
-  saturation: 0.5625
-  rhythmicContrast: 1
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: The British Pilot in New Zealand
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.89105
+layout_spectrum: 1
