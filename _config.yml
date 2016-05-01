@@ -1,7 +1,7 @@
 name: The British Pilot in New Zealand
 favicon: null
-layout_spectrum: 0.418488210067153
-typography_spectrum: 0.5517806229181588
+layout_spectrum: 0.50471
+typography_spectrum: 0.89105
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.5836046496406198
-  lightness: 0.5121846413239837
-  saturation: 0.7031058217398822
-  rhythmicContrast: 0.9344208447728306
+    - '#0a0807'
+    - '#4a5569'
+    - '#b2b6b5'
+    - '#ffffff'
+    - '#d9571d'
+  brandStrength: 0.5
+  lightness: 0.5625
+  saturation: 0.5625
+  rhythmicContrast: 1
 purpose: []
