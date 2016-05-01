@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: The British Pilot in New Zealand
 favicon: null
+name: The British Pilot in New Zealand
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.89105
-layout_spectrum: 1
+layout_spectrum: 0.6825994
