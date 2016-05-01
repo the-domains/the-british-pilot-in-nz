@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The British Pilot in NZ]]></title>
+        <description><![CDATA[The British Pilot in NZ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 01 May 2016 02:16:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Christchurch Airport]]></title>
+            <description><![CDATA[<article><h1>Christchurch Airport</h1><p>Hi, I'm Toby.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f76d6e2-a8f9-46d2-8856-e71f3a644d2c.jpg"></article>]]></description>
+            <link>undefinedchristchurch-airport/index.html</link>
+            <guid isPermaLink="false">5feeaa75-107a-4c19-8f1d-f23c741dacce</guid>
+            <pubDate>Sun, 01 May 2016 02:14:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
